@@ -1,0 +1,4 @@
+Recuerden que para el correcto funcionamiento se deb configurar los accesos a las bases de datos en php(contraseñas, el 
+nombre de la base de datos, etc), y los archivos del proyecto(js,html,css y php) deben estar en htdocs una carpeta que esta 
+dentro de xampp en el disco donde este instalado los archivos.
+Ademas con los archivos de la carpeta llamado configuraciones para el servidor xampp
